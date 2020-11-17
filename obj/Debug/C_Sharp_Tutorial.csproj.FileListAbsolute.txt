@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\Programming\C#\Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\bin\Debug\C_Sharp_Tutorial.exe.config
+C:\Users\Hp\Desktop\Programming\C#\Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\bin\Debug\C_Sharp_Tutorial.exe
+C:\Users\Hp\Desktop\Programming\C#\Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\bin\Debug\C_Sharp_Tutorial.pdb
+C:\Users\Hp\Desktop\Programming\C#\Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\obj\Debug\C_Sharp_Tutorial.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Programming\C#\Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\obj\Debug\C_Sharp_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming\C#\Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\obj\Debug\C_Sharp_Tutorial.exe
+C:\Users\Hp\Desktop\Programming\C#\Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\C_Sharp_Tutorial\obj\Debug\C_Sharp_Tutorial.pdb

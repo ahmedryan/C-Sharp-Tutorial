@@ -10,9 +10,22 @@ namespace C_Sharp_Tutorial
 	{
 		static void Main(string[] args)
 		{
+			// plaintext
 			string characterName = "Ryan";
-			int characterAge = 22;
+			char grade = 'A';
 
+			// number (decimal is used for extreme accuracy)
+			int characterAge = 22;
+			double gpa = 3.45;
+
+			// boolean
+			bool isMale = true;
+
+			Console.WriteLine( characterName.Length);
+			Console.WriteLine( characterName.ToUpper());
+			Console.WriteLine( characterName.ToLower());
+			Console.WriteLine( characterName[0]);
+			Console.WriteLine( characterName.Contains("an"));
 
 			Console.WriteLine("Hello World!" );
 			Console.WriteLine("This is " + characterName + "!");

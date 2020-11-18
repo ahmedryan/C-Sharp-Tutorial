@@ -10,8 +10,13 @@ namespace C_Sharp_Tutorial
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World");
+			string characterName = "Ryan";
+			int characterAge = 22;
 
+
+			Console.WriteLine("Hello World!" );
+			Console.WriteLine("This is " + characterName + "!");
+			Console.WriteLine("I am " + characterAge + " years old!");
 			Console.ReadLine();
 		}
 	}

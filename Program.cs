@@ -25,7 +25,6 @@ namespace C_Sharp_Tutorial
 			//Console.WriteLine("Enter your name: ");
 			//string name = Console.ReadLine();
 			//Console.WriteLine("Hello, " + name);
-
 			//Console.ReadLine();
 
 			//Console.WriteLine( characterName.Length);
@@ -37,13 +36,16 @@ namespace C_Sharp_Tutorial
 			//Console.WriteLine("Hello World!" );
 			//Console.WriteLine("This is " + characterName + "!");
 			//Console.WriteLine("I am " + characterAge + " years old!");
-			Console.WriteLine("Enter Number 1: ");
-			int num1 = Convert.ToInt32(Console.ReadLine());
+			
+			// building a calculator
+			//Console.WriteLine("Enter Number 1: ");
+			//int num1 = Convert.ToInt32(Console.ReadLine());
+			//Console.WriteLine("Enter Number 2: ");
+			//int num2 = Convert.ToInt32(Console.ReadLine());
+			//Console.WriteLine("Sum is " + (num1 + num2));
 
-			Console.WriteLine("Enter Number 2: ");
-			int num2 = Convert.ToInt32(Console.ReadLine());
-
-			Console.WriteLine("Sum is " + (num1 + num2));
+			int[] arr = {1,2,3,4,5};
+			Console.WriteLine(arr[3]);
 
 			Console.ReadLine();
 		}

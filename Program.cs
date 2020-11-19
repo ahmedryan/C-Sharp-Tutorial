@@ -11,22 +11,22 @@ namespace C_Sharp_Tutorial
 		static void Main(string[] args)
 		{
 			// plaintext
-			string characterName = "Ryan";
-			char grade = 'A';
+			//string characterName = "Ryan";
+			//char grade = 'A';
 
 			// number (decimal is used for extreme accuracy)
-			int characterAge = 22;
-			double gpa = 3.45;
+			//int characterAge = 22;
+			//double gpa = 3.45;
 
 			// boolean
-			bool isMale = true;
+			//bool isMale = true;
 
 			// getting user input
-			Console.WriteLine("Enter your name: ");
-			string name = Console.ReadLine();
-			Console.WriteLine("Hello, " + name);
+			//Console.WriteLine("Enter your name: ");
+			//string name = Console.ReadLine();
+			//Console.WriteLine("Hello, " + name);
 
-			Console.ReadLine();
+			//Console.ReadLine();
 
 			//Console.WriteLine( characterName.Length);
 			//Console.WriteLine( characterName.ToUpper());
@@ -37,7 +37,15 @@ namespace C_Sharp_Tutorial
 			//Console.WriteLine("Hello World!" );
 			//Console.WriteLine("This is " + characterName + "!");
 			//Console.WriteLine("I am " + characterAge + " years old!");
-			//Console.ReadLine();
+			Console.WriteLine("Enter Number 1: ");
+			int num1 = Convert.ToInt32(Console.ReadLine());
+
+			Console.WriteLine("Enter Number 2: ");
+			int num2 = Convert.ToInt32(Console.ReadLine());
+
+			Console.WriteLine("Sum is " + (num1 + num2));
+
+			Console.ReadLine();
 		}
 	}
 }

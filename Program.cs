@@ -21,16 +21,23 @@ namespace C_Sharp_Tutorial
 			// boolean
 			bool isMale = true;
 
-			Console.WriteLine( characterName.Length);
-			Console.WriteLine( characterName.ToUpper());
-			Console.WriteLine( characterName.ToLower());
-			Console.WriteLine( characterName[0]);
-			Console.WriteLine( characterName.Contains("an"));
+			// getting user input
+			Console.WriteLine("Enter your name: ");
+			string name = Console.ReadLine();
+			Console.WriteLine("Hello, " + name);
 
-			Console.WriteLine("Hello World!" );
-			Console.WriteLine("This is " + characterName + "!");
-			Console.WriteLine("I am " + characterAge + " years old!");
 			Console.ReadLine();
+
+			//Console.WriteLine( characterName.Length);
+			//Console.WriteLine( characterName.ToUpper());
+			//Console.WriteLine( characterName.ToLower());
+			//Console.WriteLine( characterName[0]);
+			//Console.WriteLine( characterName.Contains("an"));
+
+			//Console.WriteLine("Hello World!" );
+			//Console.WriteLine("This is " + characterName + "!");
+			//Console.WriteLine("I am " + characterAge + " years old!");
+			//Console.ReadLine();
 		}
 	}
 }

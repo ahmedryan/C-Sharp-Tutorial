@@ -8,6 +8,7 @@ namespace C_Sharp_Tutorial
 {
 	class Program
 	{
+
 		static void Main(string[] args)
 		{
 			// plaintext
@@ -44,8 +45,17 @@ namespace C_Sharp_Tutorial
 			//int num2 = Convert.ToInt32(Console.ReadLine());
 			//Console.WriteLine("Sum is " + (num1 + num2));
 
-			int[] arr = {1,2,3,4,5};
-			Console.WriteLine(arr[3]);
+			// arrays
+			//int[] arr = {1,2,3,4,5};
+			//Console.WriteLine(arr[3]);
+			//string[] friends = new string[5];
+			//friends[0] = "Jim";
+
+			// objects
+			Book myBook = new Book();
+			myBook.title = "Harry Potter";
+			myBook.author = "JK Rowling";
+			myBook.pages = 500;
 
 			Console.ReadLine();
 		}
